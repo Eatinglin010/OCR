@@ -1,0 +1,17 @@
+vy Money sent successfully.
+Transaction ID
+8344180277
+Transaction Amount
+1109.00
+From Account Number
+
+5903
+
+From Account Title
+BILAL AHMED
+Beneficiary Name
+RAPID TECH
+Raast ID / IBAN
+..0791
+Transaction Date & Time
+6/5/2023 12:06:07 PM

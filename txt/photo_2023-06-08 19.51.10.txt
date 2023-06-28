@@ -1,0 +1,17 @@
+(V) Money sent successfully.
+Transaction ID
+8324870213
+Transaction Amount
+6512.00
+From Account Number
+..8801
+From Account Title
+MUHAMMAD FAHEEM
+Beneficiary Name
+RAPID TECH
+Raast ID / IBAN
+...0791
+Beneficiary Nick
+hayar
+Transaction Date & Time
+6/2/2023 5:26:06 PM
